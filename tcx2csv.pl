@@ -8,7 +8,6 @@
 # manontanto
 # 2016-08-03
 # 2017-4-30($spd km/hを書き出す追加)
-# 2020-4-12(push to github)
 
 use strict;
 my $arg = @ARGV;
